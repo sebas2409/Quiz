@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="verdadero">Verdadero</string>
+    <string name="falso">Falso</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="correcto">Correcto!</string>
+    <string name="incorrecto">Incorrecto!</string>
+    <string name="mensaje_advbertencia">Estas seguro de que deseas hacer trampas?</string>
+    <string name="mostrar_respuesta">Mostrar respuesta</string>
+    <string name="boton_trampa">Ver Respuesta</string>
+    <string name="Toast">Hacer trampas está mal!</string>
+</resources>
